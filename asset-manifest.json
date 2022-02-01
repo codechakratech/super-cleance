@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/super-cleance/static/css/main.f06a02be.css",
+    "main.js": "/super-cleance/static/js/main.379e1567.js",
+    "static/js/377.f8eec6f3.chunk.js": "/super-cleance/static/js/377.f8eec6f3.chunk.js",
+    "static/media/bg.jpeg": "/super-cleance/static/media/bg.b5f1b39acf84340383b4.jpeg",
+    "static/media/bg2.jpeg": "/super-cleance/static/media/bg2.85fad6dffb39cb23015c.jpeg",
+    "service-worker.js": "/super-cleance/service-worker.js",
+    "index.html": "/super-cleance/index.html",
+    "main.f06a02be.css.map": "/super-cleance/static/css/main.f06a02be.css.map",
+    "main.379e1567.js.map": "/super-cleance/static/js/main.379e1567.js.map",
+    "377.f8eec6f3.chunk.js.map": "/super-cleance/static/js/377.f8eec6f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f06a02be.css",
+    "static/js/main.379e1567.js"
+  ]
+}
